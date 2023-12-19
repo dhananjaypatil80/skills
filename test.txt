@@ -1,0 +1,30 @@
+Experience working on Docker hub,creating Docker images and handling multiple images,used Docker file and ran docker build to build custom images,used named volumes and bind mounts to map the host files to container files.
+ 
+Experties in working wif terraform key features such as Infrastructure as a code,Execution plans,change automation and extensively used auto scalling launch configuration templates for launching amazon EC2 intsances while deploying microservices.
+ 
+Experience in Configuring and managing source code usig GIT and resolved merging conflicts in collaboration wif applictaion developers and provided a consistence environment in implementing continious integration,using Jenkins and GIT.
+ 
+Experience in developing continious integration and continious deployment system wif jenkins on kubernetes environment,utilizing kubernetes and jenkins for the runtime environment using CI/CD to build,test and deploy.
+ 
+Contribute to the design and implemettaion of continious integration and delivery processes and system for highly available and performant aplication tasks.
+ 
+Responsible for implemeting monitoring solutions in Ansible,Terraform,Docker and Jenkins.
+ 
+write terraform script from scratch for build Dev,staging and prod environment.
+ 
+Setup Continuos integration with jenkins and make use of wide range of plugins available to setup smooth developer friedly workflows.
+ 
+Worked in DevOps collaboration team for internal build and automation configurtion management in Linux/Unix and Windows environment.
+ 
+Hands-On experinece on Ansible as configuration management tool to automate repetitive tasks,quicky deploy critical applications,and proactively manages change.
+ 
+ 
+Seasoned professional with over 5+ year of experinece.
+ 
+Experience in writing of plyabook and creating roles of scalibility and reusability in ansible.
+ 
+Experties in Java build tool like maven for the building of deployable artifacts such as jar, war from source code.
+ 
+Hands-On experinece in creating Ansible-playbook and application deployment automation.
+ 
+worked on the lambda functions to automated the task using python script.
